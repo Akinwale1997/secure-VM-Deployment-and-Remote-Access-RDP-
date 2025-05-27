@@ -53,17 +53,37 @@ Think of this like setting up a remote office computer that only your team lead 
 
 | Step | Description |
 |------|-------------|
-| 01-vm-deployment-started.png | VM creation process begins |
-| 02-vm-created-ade.png | VM and resources successfully deployed |
-| 03-disk-encryption-enabled.png | Encryption turned on for the OS disk |
-| 04-antimalware-extention-deployed.png | Antimalware setup completed |
-| 05-rdp-nsg-rule-configured.png | NSG rule allowing RDP from my IP |
-| 06-rdp-client-connection-attempt.png | RDP client screen ready for login |
-| 07-rdp-session-success.jpg | Successfully connected to the VM |
-| 08-antimalware-status-confirmed.png | Verified antimalware protection |
-| 09-nsg-rdp-restricted-rule-confirmed.png | Final NSG settings confirmed |
-| 10-rdp-session-success.jpg | RDP connection from allowed IP verified again |
+|## Screenshots
 
+### 1. VM Deployment Started
+![VM Deployment Started](01-vm-deployment-started.png)
+
+### 2. VM Created Confirmation
+![VM Created](02-vm-created-ade.png)
+
+### 3. Disk Encryption Enabled
+![Disk Encryption](03-disk-encryption-enabled.png)
+
+### 4. Antimalware Extension Deployed
+![Antimalware](04-antimalware-extention-deployed.png)
+
+### 5. RDP NSG Rule Configured
+![RDP Rule](05-rdp-nsg-rule-configured.png)
+
+### 6. RDP Client Connection Attempt
+![RDP Attempt](06-rdp-client-connection-attempt.png)
+
+### 7. RDP Session Success
+![RDP Success](07-rdp-session-success.jpg)
+
+### 8. Antimalware Status Confirmed
+![Antimalware Confirmed](08-antimalware-status-confirmed.png)
+
+### 9. NSG RDP Rule Final
+![NSG Final](09-nsg-rdp-restricted-rule-confirmed.png)
+
+### 10. Final RDP Login Confirmation
+![Final Login](10-rdp-session-success.jpg)
 ---
 
 ## About Me
