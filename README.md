@@ -51,10 +51,6 @@ Think of this like setting up a remote office computer that only your team lead 
 
 ## Screenshots
 
-| Step | Description |
-|------|-------------|
-|## Screenshots
-
 ### 1. VM Deployment Started
 ![VM Deployment Started](01-vm-deployment-started.png)
 
