@@ -50,6 +50,6 @@ As a Cloud Security Engineer, you are tasked with creating this virtual machine 
 ![RDP Success](07-rdp-session-success.jpg)
 ---
 
-## Author
+## 
 
 Olarinde Akinwale – Cloud Security Engineer in training
