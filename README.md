@@ -44,7 +44,7 @@ As a Cloud Security Engineer, you are tasked with creating this virtual machine 
 ![NSG Rule](05-rdp-nsg-rule-configured.png)
 
 ### 6. RDP Client Prompted for Connection
-![RDP Attempt](06-rdp-client-connection-atempt.png)
+![RDP Attempt](06-rdp-client-connection-attempt.png)
 
 ### 7. RDP Session Successful
 ![RDP Success](07-rdp-session-success.jpg)
